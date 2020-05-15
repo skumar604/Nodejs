@@ -1,0 +1,23 @@
+{
+  "name": "learnpackage",
+  "version": "1.0.0",
+  "description": "node npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "nodeq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "zone.js": "^0.10.3"
+  }
+}

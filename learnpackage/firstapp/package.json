@@ -1,0 +1,15 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "myadd.js",
+  "scripts": {
+    "start": "node myadd.js",
+    "dev": "nodemon mytext.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
