@@ -1,0 +1,23 @@
+{
+  "name": "codewithexpress",
+  "version": "1.0.0",
+  "description": "codewthexpress",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "code"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
